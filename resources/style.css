@@ -2,13 +2,20 @@ body {
     background-color: #dcffe4;
 }
 
+#tableCollection {
+    
+}
+
+table {
+    margin: 30px;
+}
+
 #cssTable {
     background-color: #563d7c;
 }
 
 
-/*to add more language tables start here...
-find coordinating GitHub colors @ https://github.com/ozh/github-colors/blob/master/colors.json*/
+
 #htmlTable {
     background-color: #e34c26;
 }
@@ -20,3 +27,8 @@ find coordinating GitHub colors @ https://github.com/ozh/github-colors/blob/mast
 #javaTable {
     background-color: #b07219;
 }
+
+
+/* To add more language tables start here...
+Find coordinating GitHub colors 
+@ https://github.com/ozh/github-colors/blob/master/colors.json*/
