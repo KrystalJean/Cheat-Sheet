@@ -1,0 +1,22 @@
+body {
+    background-color: #dcffe4;
+}
+
+#cssTable {
+    background-color: #563d7c;
+}
+
+
+/*to add more language tables start here...
+find coordinating GitHub colors @ https://github.com/ozh/github-colors/blob/master/colors.json*/
+#htmlTable {
+    background-color: #e34c26;
+}
+
+#jsTable {
+    background-color: #f1e05a;
+}
+
+#javaTable {
+    background-color: #b07219;
+}
