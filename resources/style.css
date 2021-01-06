@@ -2,6 +2,24 @@ body {
     background-color: #dcffe4;
 }
 
+.table {
+    border: black solid 3px;
+    padding:5%;
+    border-radius: 10%;
+    color: rgb(216, 213, 213);
+}
+
+.topics:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+
+
+
+
+
+
 #tableCollection {
     
 }
@@ -10,14 +28,27 @@ table {
     margin: 30px;
 }
 
-#cssTable {
-    background-color: #563d7c;
+/*HTML CARD*/
+
+#htmlTable {
+    background-color: #e34c26;
+}
+
+#htmlTable:hover {
+    background-color: black;
+    
+}
+
+#htmlHeader {
+    font-size: 20px;
 }
 
 
 
-#htmlTable {
-    background-color: #e34c26;
+/*CSS CARD*/
+
+#cssTable {
+    background-color: #563d7c;
 }
 
 #jsTable {
@@ -28,6 +59,13 @@ table {
     background-color: #b07219;
 }
 
+#pythonTable {
+    background-color: #3572A5;
+}
+
+#sqlTable {
+    background-color: #dad8d8;
+}
 
 /* To add more language tables start here...
 Find coordinating GitHub colors 
